@@ -8,4 +8,5 @@ export default defineConfig({
     vue(),
     UnoCSS(),
   ],
+  base: '/five-d-data-frontend-exam/',
 })
