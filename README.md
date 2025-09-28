@@ -24,3 +24,5 @@ npm run dev
   - [antfu/eslint-config](https://github.com/antfu/eslint-config)
   - [Husky](https://typicode.github.io/husky/get-started.html)
   - [lint-staged](https://github.com/lint-staged/lint-staged)
+- Build tool
+  - [Vite](https://vite.dev/guide/)
