@@ -4,7 +4,7 @@ import illustration from '../assets/scene-illustration.png'
 import uploadCloud from '../assets/upload-cloud.svg'
 import Stepper from '../components/Stepper.vue'
 
-const currentStep = ref(2)
+const currentStep = ref(3)
 
 const files = ref<File[]>([])
 const isDragging = ref(false)
