@@ -16,8 +16,6 @@ npm run dev
 - State management
   - [Vue.js](https://vuejs.org/)
   - [Pinia](https://pinia.vuejs.org/getting-started.html)
-- Router
-  - [Vue Router](https://router.vuejs.org/installation.html)
 - CSS
   - [Unocss](https://unocss.dev/integrations/vite)
 - Code Patterns
